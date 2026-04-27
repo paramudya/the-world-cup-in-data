@@ -10,13 +10,13 @@ The data on x axis and y axis could also be chosen (in case of other than "pitch
 
 the data could be for example:
 
- # match day 
+ match day 
 . date / time
  country
 player
 minutes played
 player rating (from fotmob or something)
-# of yellow cards / cards/ red cards
+number of of yellow cards / cards/ red cards
 
 for pitch chart
 
